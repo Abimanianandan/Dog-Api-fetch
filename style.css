@@ -1,0 +1,23 @@
+body{
+   background-color: black !important;
+}
+.container{
+    margin-top: 20vh;
+    align-items: center !important;
+    border: 5px solid rgb(219, 99, 99) !important;
+    width: fit-content !important;
+    border-radius: 10px;
+}
+.card{
+    margin-top: 20vh;
+    
+}
+img{
+    width:100% !important;
+    height: 100% !important;
+}
+.btn{
+    width: fit-content !important;
+    align-items: center !important;
+    margin-left: 25%;
+}
